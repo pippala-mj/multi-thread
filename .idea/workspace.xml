@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1574795f-0559-4272-971e-2417a1959865" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/daemon/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/forkjoin/MakeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/forkjoin/SumFJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/join/UseJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/pool/DBPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/pool/SqlConnectionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/safeend/EndRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/safeend/EndThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/safeend/HasInterruptedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/start/StartThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/sync/SynClzAndInst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/sync/SyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/sync/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/tl/UseThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/wn/Express.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/wn/TestWN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/daemon/DaemonThread$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/daemon/DaemonThread$UseThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/daemon/DaemonThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/forkjoin/MakeArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/forkjoin/SumFJ$MyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/forkjoin/SumFJ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/join/UseJoin$JumpQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/join/UseJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/pool/DBPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/pool/SqlConnectionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndRunnable$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndRunnable$UseRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndThread$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndThread$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/HasInterruptedException$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/HasInterruptedException$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/HasInterruptedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$UseCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$UseRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$UseThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst$Instance2Syn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst$InstanceSyn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst$SynClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SyncTest$InstanceSyn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SyncTest$SyncClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SyncTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynchronizedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/tl/UseThreadLocal$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/tl/UseThreadLocal$TestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/tl/UseThreadLocal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/Express.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN$CheckKm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN$CheckSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RS1Q54IPdwyoLQg5DntPJymEig" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SynchronizedTest">
+    <configuration name="SumFJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pippala.st.forkjoin.SumFJ" />
+      <module name="multi-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pippala.st.forkjoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pippala.st.sync.SynchronizedTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pippala.st.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pippala.st.wn.TestWN" />
+      <module name="multi-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pippala.st.wn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pippala.st.join.UseJoin" />
+      <module name="multi-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pippala.st.join.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pippala.st.tl.UseThreadLocal" />
+      <module name="multi-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pippala.st.tl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SynchronizedTest" />
+        <item itemvalue="Application.SumFJ" />
+        <item itemvalue="Application.UseJoin" />
+        <item itemvalue="Application.TestWN" />
+        <item itemvalue="Application.UseThreadLocal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1574795f-0559-4272-971e-2417a1959865" name="Default Changelist" comment="" />
+      <created>1569645663831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569645663831</updated>
+      <workItem from="1569645666715" duration="8042000" />
+      <workItem from="1569680305069" duration="41947000" />
+      <workItem from="1570450942065" duration="707000" />
+      <workItem from="1570505140601" duration="14488000" />
+      <workItem from="1570600687645" duration="602000" />
+      <workItem from="1570759929432" duration="600000" />
+      <workItem from="1570770755235" duration="12910000" />
+      <workItem from="1570859058814" duration="1530000" />
+      <workItem from="1570862244347" duration="1497000" />
+      <workItem from="1572433449118" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
