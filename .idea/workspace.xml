@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1574795f-0559-4272-971e-2417a1959865" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/daemon/DaemonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/forkjoin/MakeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/forkjoin/SumFJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/join/UseJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/pool/DBPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/pool/SqlConnectionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/safeend/EndRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/safeend/EndThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/safeend/HasInterruptedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/start/StartThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/sync/SynClzAndInst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/sync/SyncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/sync/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/tl/UseThreadLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/wn/Express.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pippala/st/wn/TestWN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/daemon/DaemonThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/daemon/DaemonThread$UseThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/daemon/DaemonThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/forkjoin/MakeArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/forkjoin/SumFJ$MyTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/forkjoin/SumFJ.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/join/UseJoin$JumpQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/join/UseJoin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/pool/DBPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/pool/SqlConnectionImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndRunnable$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndRunnable$UseRun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndThread$MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/EndThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/HasInterruptedException$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/HasInterruptedException$MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/safeend/HasInterruptedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$UseCall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$UseRun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread$UseThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/start/StartThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst$Instance2Syn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst$InstanceSyn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst$SynClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynClzAndInst.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SyncTest$InstanceSyn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SyncTest$SyncClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SyncTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/sync/SynchronizedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/tl/UseThreadLocal$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/tl/UseThreadLocal$TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/tl/UseThreadLocal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/Express.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN$CheckKm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN$CheckSite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/pippala/st/wn/TestWN.class" afterDir="false" />
-    </list>
+    <list default="true" id="1574795f-0559-4272-971e-2417a1959865" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +131,7 @@
       <workItem from="1570770755235" duration="12910000" />
       <workItem from="1570859058814" duration="1530000" />
       <workItem from="1570862244347" duration="1497000" />
-      <workItem from="1572433449118" duration="71000" />
+      <workItem from="1572433449118" duration="677000" />
     </task>
     <servers />
   </component>
